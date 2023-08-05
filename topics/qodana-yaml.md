@@ -292,7 +292,7 @@ Currently, license audit with Qodana is possible only for JPS, Maven, Gradle, np
 customDependencies:
   - name: ".babelrc JSON Schema (.babelrc-schema.json)"
     version: "JSON schema for Babel 6+ configuration files"
-    licenses:
+    licenses:                
       - key: "Apache-2.0"
         url: "https://github.com/SchemaStore/schemastore/blob/master/LICENSE"
 ```
